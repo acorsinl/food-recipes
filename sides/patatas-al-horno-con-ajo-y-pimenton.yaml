@@ -1,5 +1,6 @@
 recipe_name: Patatas al horno con ajo y pimentón
 oven_temp: 180º
+bake_time: 40
 yields:
         - servings: 3
 ingredients:
@@ -25,4 +26,3 @@ steps:
         - step: Dar un par de cortes en forma de cruz por cada lado de las patatas y colocar en bandeja de horno.
         - step: Sofreir el ajo con bastante aceite. Añadir el pimentón cuando esté dorado.
         - step: Verter el aceite, ajo y pimentón uniformemente sobre las patatas.
-        - step: hornear durante unos 40 minutos.
