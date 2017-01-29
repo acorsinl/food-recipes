@@ -1,0 +1,26 @@
+recipe_name: Salsa bechamel
+ingredients:
+        - Mantequilla:
+                amounts:
+                        - amount: 100
+                          unit: g
+        - Harina:
+                amounts:
+                        - amount: 100
+                          unit: g
+        - Leche:
+                amounts:
+                        - amount: 800
+                          unit: g
+        - Cebolla:
+                amounts:
+                        - amount: 1
+                          unit: each
+steps:
+        - step: Derretir la mantequilla en una sartén
+          notes: Cortarla previamente en cubos para que se derrita uniformemente y no se queme.
+        - step: Añadir la cebolla picada muy fina y sofreir hasta que esté dorada.
+        - step: añadir la harina poco a poco y remover para mezclar bien.
+        - step: añadir la leche.
+          notes: La leche que no esté fría, si lo está, echar poco a poco para no enfriar la sartén.
+        - step: remover y mantener a fuego lento hasta que hierva. Cuando esté evaporando seguir removiendo hasta conseguir la textura deseada.
