@@ -31,9 +31,13 @@ ingredients:
                 amounts:
                         - amount: 4
                           unit: each
+        - Levadura:
+                amounts:
+                        - amount: 1
+                          unit: each
 steps:
         - step: Derretir el chocolate y la mantequilla juntos en el microondas y remover.
-        - step: Mezclamos en un bol la harina, el azucar y los huevos hasta que no queden grumos.
+        - step: Mezclamos en un bol la harina, el azucar, la levadura y los huevos hasta que no queden grumos.
         - step: añadimos el chocolate al bol y lo mezclamos bien.
         - step: Untamos un molde con los 25g de mantequilla que nos sobran y echamos la mezcla.
         - step: horneamos durante 20 minutos.
