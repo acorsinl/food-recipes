@@ -1,0 +1,23 @@
+recipe_name: Salsa de mostaza y miel
+yields:
+        - servings: 1
+ingredients:
+        - Miel:
+                amounts:
+                        - amount: 1
+                          unit: each
+        - Mostaza amarilla o de dijon:
+                amounts:
+                        - amount: 1
+                          unit: each
+        - Vinagre de vino blanco:
+                amounts:
+                        - amount: 1
+                          unit: each
+        - Mayonesa:
+                amounts:
+                        - amount: 1
+                          unit: each
+steps:
+        - step: Mezclarlo todo
+        - step: Ajustar sal y remover de nuevo
