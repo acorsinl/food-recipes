@@ -1,5 +1,6 @@
 recipe_name: Lomo de cerdo a la sal
 oven_temp: 200º
+bake_time: 1h por kg de carne
 yields:
         - servings: 4
 ingredients:
@@ -15,4 +16,4 @@ steps:
         - step: Poner una cama de sal en una bandeja y poner encima el lomo
         - step: Tapar con más sal apretando bien por los lados y por encima.
           notes: Si la salestá muy seca, humedecer con las manos.
-        - step: Asar una hora por cada kilo de carne.
+        - step: Asar
