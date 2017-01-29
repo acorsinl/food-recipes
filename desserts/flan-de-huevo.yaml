@@ -1,0 +1,27 @@
+recipe_name: Flan de huevo
+yields:
+        - servings: 4
+ingredients:
+        - Leche:
+                amounts:
+                        - amount: 0.5
+                          unit: l
+        - Huevos:
+                amounts:
+                        - amount: 4
+                          unit: each
+        - Azucar:
+                amounts:
+                        - amount: 100
+                          unit: g
+        - Limón:
+                amounts:
+                        - amount: 1
+                          unit: corteza
+steps:
+        - step: echar en un bol la leche junto con la corteza del limón y escaldamos en el microondas 3 minutos.
+        - step: batimos los huevos con el azucar hasta que esté bien mezclado.
+        - step: añadimos la leche sin dejar de remover.
+        - step: vertimos todo en un molde y lo ponemos a cocer 4 minutos en el microondas.
+        - step: cubrir con papel de cocina transparente y lo ponemos a coer otros 5 minutos más.
+          notes: No agujerear el papel de cocina. Dejar enfriar unas dos horas.
