@@ -1,5 +1,6 @@
 recipe_name: Brownie de chocolate
 oven_temp: 200º
+bake_time: 20
 yields:
         - servings: 4
 ingredients:
@@ -40,5 +41,5 @@ steps:
         - step: Mezclamos en un bol la harina, el azucar, la levadura y los huevos hasta que no queden grumos.
         - step: añadimos el chocolate al bol y lo mezclamos bien.
         - step: Untamos un molde con los 25g de mantequilla que nos sobran y echamos la mezcla.
-        - step: horneamos durante 20 minutos.
+        - step: horneamos
           notes: Si se clava algo metálico, si sale limpio pero húmedo es que está hecho, si sale sucio, no.
