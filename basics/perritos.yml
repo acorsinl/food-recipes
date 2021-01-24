@@ -1,0 +1,34 @@
+recipe_name: Pan de perrito sin glúten (Thermomix)
+ingredients:
+  - leche:
+    - amount: 330
+      unit: grams
+  - mantequilla:
+    - amount: 50
+      unit: grams
+  - azucar:
+    - amount: 50
+      unit: grams
+  - levadura fresca:
+    - amount: 25
+      unit: grams
+    - substitutions:
+      - levadura seca:
+        - amount: 8
+          unit: grams
+  - harina:
+    - amount: 470
+      unit: grams
+  - sal:
+    - amount: 1
+      unit: coffee spoon
+  - lecitina de soja:
+    - amount: 4
+      unit: grams
+steps:
+  - step: Precalentar el horno a 180º, calor arriba y abajo
+  - step: Mezclar en el vaso de la thermomix el vaso, la mantequilla, el azúcar, la levadura fresca y disolvemos durante 1 minuto, 37ºC, velocidad 2
+  - step: Agregar la mitad de la harina y mezclar 5 segundos, velocidad 5
+  - step: Añadir el resto de la harina y programar 2 minutos, velocidad espiga.
+  - step: Dar forma a los panes y pincelarlos al gusto con leche o huevo batido.
+  - step: hornear durante unos 20 minutos y dejar enfriar.
